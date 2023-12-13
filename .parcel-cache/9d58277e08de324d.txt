@@ -2,7 +2,7 @@
 110D:\react-assignment\react-project\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\mergeStyles.js133466761873305667 0
 93D:\react-assignment\react-project\node_modules\css-select\lib\esm\pseudo-selectors\index.d.ts133466761878897305 0
 55D:\react-assignment\react-project\node_modules\get-port133466761858390769 1
-64D:\react-assignment\react-project\node_modules\@msgpackr-extract133467923699169968 1
+64D:\react-assignment\react-project\node_modules\@msgpackr-extract133467927132499737 1
 83D:\react-assignment\react-project\node_modules\@swc\helpers\esm\_new_arrow_check.js133466761910829261 0
 81D:\react-assignment\react-project\node_modules\css-tree\lib\syntax\node\Atrule.js133466761907412939 0
 79D:\react-assignment\react-project\node_modules\css-tree\cjs\tokenizer\types.cjs133466761899619862 0
@@ -17,11 +17,11 @@
 62D:\react-assignment\react-project\node_modules\source-map\dist133466761868138114 1
 62D:\react-assignment\react-project\node_modules\chalk\readme.md133466761859479715 0
 115D:\react-assignment\react-project\node_modules\csso\node_modules\css-tree\cjs\syntax\node\PseudoElementSelector.cjs133466761886811610 0
-38D:\react-assignment\react-project\dist133467929091966787 1
+38D:\react-assignment\react-project\dist133469700602163939 1
 71D:\react-assignment\react-project\node_modules\@mischnic\json-sourcemap133466761857062096 1
 82D:\react-assignment\react-project\node_modules\htmlparser2\lib\WritableStream.d.ts133466761864212470 0
 100D:\react-assignment\react-project\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\index.js133466761924930368 0
-44D:\react-assignment\react-project\.gitignore133467928420720071 0
+44D:\react-assignment\react-project\.gitignore133467930031773516 0
 64D:\react-assignment\react-project\node_modules\commander\typings133466761861100277 1
 73D:\react-assignment\react-project\node_modules\cosmiconfig\dist\util.d.ts133466761872554205 0
 76D:\react-assignment\react-project\node_modules\@parcel\profiler\src\types.js133466761862108259 0
@@ -33,7 +33,7 @@
 78D:\react-assignment\react-project\node_modules\caniuse-lite\data\regions\VA.js133466761956714585 0
 87D:\react-assignment\react-project\node_modules\caniuse-lite\data\features\array-find.js133466761873067829 0
 91D:\react-assignment\react-project\node_modules\caniuse-lite\data\features\css-cross-fade.js133466761911203458 0
-40D:\react-assignment\react-project\App.js133467924930198078 0
+40D:\react-assignment\react-project\App.js133469699873766047 0
 80D:\react-assignment\react-project\node_modules\@parcel\transformer-image\LICENSE133466761851910884 0
 44D:\react-assignment\react-project\index.html133467925728851043 0
 91D:\react-assignment\react-project\node_modules\@parcel\reporter-dev-server\src\HMRServer.js133466761859096614 0
@@ -47,7 +47,7 @@
 61D:\react-assignment\react-project\node_modules\domhandler\lib133466761861009348 1
 115D:\react-assignment\react-project\node_modules\css-select\node_modules\entities\lib\generated\decode-data-html.d.ts133466761876695928 0
 65D:\react-assignment\react-project\node_modules\domhandler\LICENSE133466761851574265 0
-43D:\react-assignment\react-project\index.css133465777772895897 0
+43D:\react-assignment\react-project\index.css133469698087905021 0
 78D:\react-assignment\react-project\node_modules\caniuse-lite\data\regions\DE.js133466761931763433 0
 69D:\react-assignment\react-project\node_modules\update-browserslist-db133466761860260015 1
 64D:\react-assignment\react-project\node_modules\csso\lib\index.js133466761878733014 0
@@ -104,7 +104,7 @@
 114D:\react-assignment\react-project\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\procedure.js133466761861312971 0
 63D:\react-assignment\react-project\node_modules\lmdb\src\env.cpp133466761885726429 0
 61D:\react-assignment\react-project\node_modules\@parcel\logger133466761859086627 1
-52D:\react-assignment\react-project\node_modules\@lmdb133467923699169968 1
+52D:\react-assignment\react-project\node_modules\@lmdb133467927132509757 1
 66D:\react-assignment\react-project\node_modules\csso\cjs\syntax.cjs133466761873698407 0
 76D:\react-assignment\react-project\node_modules\type-fest\source\mutable.d.ts133466761867308122 0
 93D:\react-assignment\react-project\node_modules\css-select\node_modules\entities\lib\decode.js133466761861435964 0
@@ -120,7 +120,7 @@
 52D:\react-assignment\react-project\node_modules\clone133466761859162717 1
 75D:\react-assignment\react-project\node_modules\nth-check\lib\esm\compile.js133466761856963502 0
 83D:\react-assignment\react-project\node_modules\caniuse-lite\data\features\jpegxl.js133466761940107175 0
-51D:\react-assignment\react-project\node_modules\@swc133467923699149701 1
+51D:\react-assignment\react-project\node_modules\@swc133467927132469775 1
 103D:\react-assignment\react-project\node_modules\css-select\node_modules\domutils\lib\esm\manipulation.js133466761861613947 0
 58D:\react-assignment\react-project\node_modules\is-arrayish133466761860250104 1
 68D:\react-assignment\react-project\node_modules\htmlnano\CHANGELOG.md133466761878320608 0
@@ -1519,7 +1519,7 @@
 75D:\react-assignment\react-project\node_modules\mdn-data\css\properties.json133466761865075141 0
 73D:\react-assignment\react-project\node_modules\css-tree\cjs\utils\url.cjs133466761901715343 0
 62D:\react-assignment\react-project\node_modules\lmdb\index.d.ts133466761912705237 0
-56D:\react-assignment\react-project\dist\index.7826abd7.js133467929091887176 0
+56D:\react-assignment\react-project\dist\index.7826abd7.js133469699892406304 0
 80D:\react-assignment\react-project\node_modules\htmlnano\lib\modules\minifyJs.cjs133466761864161472 0
 107D:\react-assignment\react-project\node_modules\react-dom\cjs\react-dom-server-legacy.browser.development.js133466742179842424 0
 82D:\react-assignment\react-project\node_modules\caniuse-lite\data\features\mpeg4.js133466761947708322 0
@@ -2496,7 +2496,7 @@
 79D:\react-assignment\react-project\node_modules\htmlnano\lib\presets\ampSafe.cjs133466761855823649 0
 79D:\react-assignment\react-project\node_modules\htmlnano\lib\presets\ampSafe.mjs133466761878531379 0
 76D:\react-assignment\react-project\node_modules\@swc\helpers\cjs\_dispose.cjs133466761874799828 0
-60D:\react-assignment\react-project\dist\index.7826abd7.js.map133467929091957157 0
+60D:\react-assignment\react-project\dist\index.7826abd7.js.map133469699892608102 0
 75D:\react-assignment\react-project\node_modules\htmlnano\lib\presets\max.mjs133466761880478453 0
 76D:\react-assignment\react-project\node_modules\htmlnano\lib\presets\safe.cjs133466761872131773 0
 65D:\react-assignment\react-project\node_modules\csso\lib\syntax.js133466761883702158 0
@@ -5236,7 +5236,7 @@
 108D:\react-assignment\react-project\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\prefixIds.js133466761874455335 0
 118D:\react-assignment\react-project\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\CDO.js133466761862550682 0
 113D:\react-assignment\react-project\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\preset-default.js133466761874563917 0
-49D:\react-assignment\react-project\dist\index.html133467929090641576 0
+49D:\react-assignment\react-project\dist\index.html133469700602148134 0
 125D:\react-assignment\react-project\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeAttributesBySelector.js133466761874709824 0
 110D:\react-assignment\react-project\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeAttrs.js133466761874809837 0
 112D:\react-assignment\react-project\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeDoctype.js133466761875262565 0
@@ -5962,5 +5962,5 @@
 74D:\react-assignment\react-project\node_modules\.bin\update-browserslist-db133466761961745198 0
 78D:\react-assignment\react-project\node_modules\.bin\update-browserslist-db.cmd133466761961745198 0
 78D:\react-assignment\react-project\node_modules\.bin\update-browserslist-db.ps1133466761961745198 0
-57D:\react-assignment\react-project\dist\index.9e4c6fd2.css133467929089936124 0
-61D:\react-assignment\react-project\dist\index.9e4c6fd2.css.map133467929090093326 0
+57D:\react-assignment\react-project\dist\index.9e4c6fd2.css133469699887303122 0
+61D:\react-assignment\react-project\dist\index.9e4c6fd2.css.map133469699887364386 0
